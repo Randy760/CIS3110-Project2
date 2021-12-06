@@ -1,0 +1,39 @@
+h3 {
+    color: black;
+
+}
+
+h1 {
+    color: green;
+}
+
+#main {
+    width: 400px;
+    margin: 0 auto;
+}
+
+#inputs-title-div {
+    margin-bottom: 0px;
+}
+
+#Check2-div {
+    margin: 10px auto;
+    color: red;
+}
+
+#Check1-div {
+    margin: 10px auto;
+}
+
+.btn {
+    margin: 10px auto;
+    background-color: grey;
+    color: black;
+    font-weight: bold;
+    transition-duration: .1s;
+}
+
+.btn:hover{
+    background-color: green;
+    color: white;
+}
